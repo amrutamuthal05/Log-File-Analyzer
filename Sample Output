@@ -1,0 +1,31 @@
+2024-06-14 16:00:00 - Analyzing 404 Errors:
+2024-06-14 16:00:00 - Number of 404 Errors: 25
+2024-06-14 16:00:00 - Analyzing Most Requested Pages:
+2024-06-14 16:00:01 - Top 10 Most Requested Pages:
+2024-06-14 16:00:01 -   500 /wp-admin/admin-ajax.php
+2024-06-14 16:00:01 -   400 /wp-content/themes/theme/style.css
+2024-06-14 16:00:01 -   300 /wp-content/uploads/2024/05/image.jpg
+...
+2024-06-14 16:00:01 - Analyzing Top Requesting IP Addresses:
+2024-06-14 16:00:02 - Top 10 Requesting IP Addresses:
+2024-06-14 16:00:02 -   150 192.168.1.100
+2024-06-14 16:00:02 -   120 10.0.0.1
+...
+2024-06-14 16:00:02 - Log analysis completed.
+
+Log analysis report:
+-------------------
+2024-06-14 16:00:00 - Analyzing 404 Errors:
+2024-06-14 16:00:00 - Number of 404 Errors: 25
+2024-06-14 16:00:00 - Analyzing Most Requested Pages:
+2024-06-14 16:00:01 - Top 10 Most Requested Pages:
+2024-06-14 16:00:01 -   500 /wp-admin/admin-ajax.php
+2024-06-14 16:00:01 -   400 /wp-content/themes/theme/style.css
+2024-06-14 16:00:01 -   300 /wp-content/uploads/2024/05/image.jpg
+...
+2024-06-14 16:00:01 - Analyzing Top Requesting IP Addresses:
+2024-06-14 16:00:02 - Top 10 Requesting IP Addresses:
+2024-06-14 16:00:02 -   150 192.168.1.100
+2024-06-14 16:00:02 -   120 10.0.0.1
+...
+2024-06-14 16:00:02 - Log analysis completed.
